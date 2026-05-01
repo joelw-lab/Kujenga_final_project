@@ -6,10 +6,10 @@ Data-Driven Analysis of PROTAC Linker Properties for Improved Drug Discovery
 This project applies data science techniques to understand linker flexibility in PROTAC design for improved drug discovery.
 
 # Techniques Used
-Correlation analysis
-Regression
-Classification
-Group comparison
+Correlation analysis,
+Regression,
+Classification,
+Group comparison, and
 Feature importance
 
 # Key Findings
